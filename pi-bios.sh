@@ -21,6 +21,11 @@ mkdir ../bios/mame
 mkdir ../bios/mame/samples
 mkdir ../bios/xmil
 cd
+rm ../bios/firmware.bin
+rm ../bios/dsi_bios7.bin
+rm ../bios/dsi_bios9.bin
+rm ../bios/dsi_firmware.bin
+rm ../bios/dsi_nand.bin
 rm ../bios/5200.rom
 rm ../bios/a2diskiing.zip
 rm ../bios/aa310.zip
