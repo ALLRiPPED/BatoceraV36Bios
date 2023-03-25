@@ -26,6 +26,16 @@ rm ../bios/dsi_bios7.bin
 rm ../bios/dsi_bios9.bin
 rm ../bios/dsi_firmware.bin
 rm ../bios/dsi_nand.bin
+rm ../bios/a2cffa02.zip
+rm ../bios/adbmodem.zip
+rm ../bios/amiga-os-300-a1200.rom
+rm ../bios/amiga-os-310-a600.rom
+rm ../bios/amiga-os-310-a4000.rom
+rm ../bios/apple2ee.zip
+rm ../bios/apple2p.zip
+rm ../bios/kick37350.A600
+rm ../bios/N88KNJ1.ROM
+rm ../bios/vectrex.zip
 rm ../bios/5200.rom
 rm ../bios/a2diskiing.zip
 rm ../bios/aa310.zip
