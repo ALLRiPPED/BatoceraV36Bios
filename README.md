@@ -24,7 +24,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/master/pi-bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/pi-bios.sh | bash
 ```
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
@@ -45,7 +45,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/master/pc-bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/pc-bios.sh | bash
 ```
 # Enjoy!!! --- A disfrutar!!!
 
