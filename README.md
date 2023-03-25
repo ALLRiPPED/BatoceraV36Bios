@@ -1,19 +1,19 @@
-<h1 align="center"> Batocera-V35-Bios 2022</h1>
+<h1 align="center"> Batocera V36 Bios 2023</h1>
 <p align="center">
-Las Bios Correctas y necesarias para Batocera V35, sin archivos innecesarios.
+Las Bios Correctas y necesarias para Batocera V36, sin archivos innecesarios.
 </p>
 <p align="center">
-The right Bios for Batocera V35, without unnecessary files.
+The right Bios for Batocera V36, without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_4.svg)](https://cafecito.app/lucianoraspberrypi)
 
 # Easy Install -- Instalación fácil para Raspberry Pi:
 
-# Login through SSH -- Nos conectamos por SSH
+# Open the Terminal with `Ctrl + F5` or Login through SSH -- Abrimos una Terminal con `Ctrl + F5` o Nos conectamos por SSH
 
 # Login:
 
@@ -24,7 +24,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/pi-bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/master/pi-bios.sh | bash
 ```
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
@@ -45,7 +45,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/pc-bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/master/pc-bios.sh | bash
 ```
 # Enjoy!!! --- A disfrutar!!!
 
