@@ -263,6 +263,11 @@ echo "System ready for right installation"
 
 echo "Obteniendo Bios---Getting Bios, be patient"
 echo
+wget -c "https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V35%20BIOS%20Extra%20PC.zip/bios/dsi_bios7.bin" -P ../bios/
+wget -c "https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V35%20BIOS%20Extra%20PC.zip/bios/dsi_bios9.bin" -P ../bios/
+wget -c "https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V35%20BIOS%20Extra%20PC.zip/bios/firmware.bin" -P ../bios/
+wget -c "https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V35%20BIOS%20Extra%20PC.zip/bios/dsi_firmware.bin" -P ../bios/
+wget -c "https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V35%20BIOS%20Extra%20PC.zip/bios/dsi_nand.bin" -P ../bios/
 
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/5200.rom" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/a2diskiing.zip" -P ../bios/
