@@ -34,7 +34,6 @@ rm ../bios/amiga-os-310-a4000.rom
 rm ../bios/apple2ee.zip
 rm ../bios/apple2p.zip
 rm ../bios/kick37350.A600
-rm ../bios/N88KNJ1.ROM
 rm ../bios/vectrex.zip
 rm ../bios/5200.rom
 rm ../bios/a2diskiing.zip
@@ -269,6 +268,7 @@ rm ../bios/quasi88/N88EXT2.ROM
 rm ../bios/quasi88/N88EXT3.ROM
 rm ../bios/quasi88/N88N.ROM
 rm ../bios/quasi88/N88SUB.ROM
+rm ../bios/quasi88/N88KNJ1.ROM
 rm ../bios/wsh57/scripten.exe
 rm ../bios/xmil/IPLROM.X1
 rm ../bios/xmil/iplrom.x1t
@@ -295,7 +295,7 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/apple2ee.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/apple2p.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/kick37350.A600" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/N88KNJ1.ROM" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/N88KNJ1.ROM" -P ../bios/quasi88/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/vectrex.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/adam_ddp.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/adam_fdc.zip" -P ../bios/
