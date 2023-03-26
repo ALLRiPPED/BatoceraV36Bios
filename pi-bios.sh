@@ -78,7 +78,6 @@ rm ../bios/bios7.bin
 rm ../bios/bios9.bin
 rm ../bios/BS-X.bin
 rm ../bios/c52.bin
-rm ../bios/cdimono1.zip
 rm ../bios/coco.zip
 rm ../bios/coco_fdc_v11.zip
 rm ../bios/coco2.zip
@@ -112,7 +111,6 @@ rm ../bios/gmaster.zip
 rm ../bios/goldstar.bin
 rm ../bios/gp32.zip
 rm ../bios/grom.bin
-rm ../bios/hikaru.zip
 rm ../bios/jopac.bin
 rm ../bios/kick33180.A500
 rm ../bios/kick34005.A500
@@ -149,7 +147,6 @@ rm ../bios/macos701.img
 rm ../bios/macos75.img
 rm ../bios/macplus.zip
 rm ../bios/macse.zip
-rm ../bios/mie.zip
 rm ../bios/mpr-17933.bin
 rm ../bios/mpr-18811-mx.ic1
 rm ../bios/mpr-19367-mx.ic1
@@ -167,7 +164,6 @@ rm ../bios/panafz10.bin
 rm ../bios/pcfx.rom
 rm ../bios/psxonpsp660.bin
 rm ../bios/qsound.zip
-rm ../bios/ROM1
 rm ../bios/saa5050.zip
 rm ../bios/saturn_bios.bin
 rm ../bios/scph101.bin
@@ -233,8 +229,6 @@ rm ../bios/vsmile.zip
 rm ../bios/xegs.zip
 rm ../bios/ym2413.zip
 rm ../bios/ym2608.zip
-rm ../bios/zcdata.dat
-rm ../bios/zcsf.sf2
 rm ../bios/dc/awbios.zip
 rm ../bios/dc/naomi.zip
 rm ../bios/dc/naomi2.zip
@@ -735,15 +729,6 @@ echo
 echo "xegs"
 echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/xegs.zip" -P ../bios/
-echo
-
-echo
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/cdimono1.zip" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/hikaru.zip" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/mie.zip" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/ROM1" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/zcdata.dat" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/zcsf.sf2" -P ../bios/
 echo
 sleep 1
 echo "Al fin, Copiadas todas las BIOS--Cool we finish"
