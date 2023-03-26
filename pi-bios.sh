@@ -295,7 +295,7 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/apple2ee.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/apple2p.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/kick37350.A600" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/N88KNJ1.ROM" -P ../bios/quasi88/
+wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/quasi88/N88KNJ1.ROM" -P ../bios/quasi88/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/vectrex.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/adam_ddp.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/bios/adam_fdc.zip" -P ../bios/
