@@ -13,7 +13,15 @@ The right Bios for Batocera V36, without unnecessary files.
 
 # Easy Install -- Instalación fácil para Raspberry Pi:
 
-# Open the Terminal with `Ctrl + F5` or Login through SSH -- Abrimos una Terminal con `Ctrl + F5` o Nos conectamos por SSH
+# Open the Terminal with `Ctrl + Alt + F3` or Login through SSH -- Abrimos una Terminal con `Ctrl + Alt + F3`:
+
+Type:
+
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/BatoceraV36Bios/main/pi-bios.sh | bash
+```
+
+# Or Login through SSH -- O Nos conectamos por SSH:
 
 # Login:
 
